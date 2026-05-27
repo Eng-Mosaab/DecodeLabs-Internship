@@ -1,0 +1,8 @@
+Subject: Office365 Password Expiring
+
+Your password expires today.
+Login now to keep your account active:
+
+http://office365-login-reset.fakeportal.com
+
+IT Department

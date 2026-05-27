@@ -1,0 +1,9 @@
+Subject: Suspicious Login Attempt
+
+We noticed a suspicious login attempt on your PayPal account.
+Click the link below to secure your account immediately:
+
+http://paypal-security-check.free-login.net
+
+Thank you,
+PayPal Support
